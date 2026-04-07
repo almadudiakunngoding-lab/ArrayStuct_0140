@@ -3,7 +3,7 @@ using namespace std;
 
 struct detailAlamat{
     string desa;
-    string alamat;
+    string kota;
 };
 
 struct orang{
